@@ -1,0 +1,285 @@
+LAPORAN DATA PUTUSAN PENGADILAN NEGERI BANJARBARU
+Jumlah data: 47
+
+Case ID: PNBJB-001
+Nomor Perkara: 10/Pid.Sus/2022/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.18 gram
+Vonis: 63 bulan
+----------------------------------------------
+Case ID: PNBJB-002
+Nomor Perkara: 149/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 5.3 gram
+Vonis: 90 bulan
+----------------------------------------------
+Case ID: PNBJB-003
+Nomor Perkara: 165/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 1.96 gram
+Vonis: 92 bulan
+----------------------------------------------
+Case ID: PNBJB-004
+Nomor Perkara: 168/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.06 gram
+Vonis: 87 bulan
+----------------------------------------------
+Case ID: PNBJB-005
+Nomor Perkara: 169/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.18 gram
+Vonis: 87 bulan
+----------------------------------------------
+Case ID: PNBJB-006
+Nomor Perkara: 16/Pid.Sus/2022/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.25 gram
+Vonis: 54 bulan
+----------------------------------------------
+Case ID: PNBJB-007
+Nomor Perkara: 174/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.08 gram
+Vonis: 87 bulan
+----------------------------------------------
+Case ID: PNBJB-008
+Nomor Perkara: 178/Pid.Sus/2022/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.03 gram
+Vonis: 60 bulan
+----------------------------------------------
+Case ID: PNBJB-009
+Nomor Perkara: 179/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 5.06 gram
+Vonis: 82 bulan
+----------------------------------------------
+Case ID: PNBJB-010
+Nomor Perkara: 189/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.05 gram
+Vonis: 70 bulan
+----------------------------------------------
+Case ID: PNBJB-011
+Nomor Perkara: 190/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.04 gram
+Vonis: 78 bulan
+----------------------------------------------
+Case ID: PNBJB-012
+Nomor Perkara: 191/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.07 gram
+Vonis: 60 bulan
+----------------------------------------------
+Case ID: PNBJB-013
+Nomor Perkara: 1/Pid.Sus/2022/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 12.27 gram
+Vonis: 93 bulan
+----------------------------------------------
+Case ID: PNBJB-014
+Nomor Perkara: 202/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Karisoprodol (tablet)
+Berat Barang Bukti: 0.0 gram
+Vonis: 36 bulan
+----------------------------------------------
+Case ID: PNBJB-015
+Nomor Perkara: 203/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Karisoprodol (tablet)
+Berat Barang Bukti: 2.732 gram
+Vonis: 84 bulan
+----------------------------------------------
+Case ID: PNBJB-016
+Nomor Perkara: 212/Pid.Sus/2023/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 2.88 gram
+Vonis: 72 bulan
+----------------------------------------------
+Case ID: PNBJB-017
+Nomor Perkara: 221/Pid.Sus/2026/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.15 gram
+Vonis: 30 bulan
+----------------------------------------------
+Case ID: PNBJB-018
+Nomor Perkara: 238/Pid.Sus/2026/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 2.2 gram
+Vonis: 58 bulan
+----------------------------------------------
+Case ID: PNBJB-019
+Nomor Perkara: 239/Pid.Sus/2026/PN Bjb
+Jenis Narkotika: Ekstasi (MDMA)
+Berat Barang Bukti: 7.44 gram
+Vonis: 54 bulan
+----------------------------------------------
+Case ID: PNBJB-020
+Nomor Perkara: 249/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.26 gram
+Vonis: 78 bulan
+----------------------------------------------
+Case ID: PNBJB-021
+Nomor Perkara: 251/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.02 gram
+Vonis: 36 bulan
+----------------------------------------------
+Case ID: PNBJB-022
+Nomor Perkara: 253/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.14 gram
+Vonis: 72 bulan
+----------------------------------------------
+Case ID: PNBJB-024
+Nomor Perkara: 280/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 9.48 gram
+Vonis: 108 bulan
+----------------------------------------------
+Case ID: PNBJB-025
+Nomor Perkara: 293/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Carnophen (tablet)
+Berat Barang Bukti: 3.6 gram
+Vonis: 72 bulan
+----------------------------------------------
+Case ID: PNBJB-026
+Nomor Perkara: 294/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.06 gram
+Vonis: 84 bulan
+----------------------------------------------
+Case ID: PNBJB-027
+Nomor Perkara: 295/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Karisoprodol (tablet)
+Berat Barang Bukti: 183.863 gram
+Vonis: 96 bulan
+----------------------------------------------
+Case ID: PNBJB-028
+Nomor Perkara: 2/Pid.Sus/2022/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 12.27 gram
+Vonis: 102 bulan
+----------------------------------------------
+Case ID: PNBJB-029
+Nomor Perkara: 333/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 9.61 gram
+Vonis: 96 bulan
+----------------------------------------------
+Case ID: PNBJB-030
+Nomor Perkara: 334/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 5.24 gram
+Vonis: 144 bulan
+----------------------------------------------
+Case ID: PNBJB-031
+Nomor Perkara: 337/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Karisoprodol (tablet)
+Berat Barang Bukti: 6.99 gram
+Vonis: 78 bulan
+----------------------------------------------
+Case ID: PNBJB-032
+Nomor Perkara: 338/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.06 gram
+Vonis: 78 bulan
+----------------------------------------------
+Case ID: PNBJB-033
+Nomor Perkara: 344/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Carnophen Zenith (mengandung Karisoprodol)
+Berat Barang Bukti: 0.0 gram
+Vonis: 66 bulan
+----------------------------------------------
+Case ID: PNBJB-034
+Nomor Perkara: 351/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 1.01 gram
+Vonis: 96 bulan
+----------------------------------------------
+Case ID: PNBJB-035
+Nomor Perkara: 355/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 1.71 gram
+Vonis: 96 bulan
+----------------------------------------------
+Case ID: PNBJB-036
+Nomor Perkara: 366/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 1.27 gram
+Vonis: 102 bulan
+----------------------------------------------
+Case ID: PNBJB-037
+Nomor Perkara: 372/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.06 gram
+Vonis: 78 bulan
+----------------------------------------------
+Case ID: PNBJB-038
+Nomor Perkara: 373/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 8.0 gram
+Vonis: 102 bulan
+----------------------------------------------
+Case ID: PNBJB-039
+Nomor Perkara: 378/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 1.95 gram
+Vonis: 96 bulan
+----------------------------------------------
+Case ID: PNBJB-040
+Nomor Perkara: 381/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 1.42 gram
+Vonis: 78 bulan
+----------------------------------------------
+Case ID: PNBJB-041
+Nomor Perkara: 386/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.64 gram
+Vonis: 66 bulan
+----------------------------------------------
+Case ID: PNBJB-042
+Nomor Perkara: 387/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.61 gram
+Vonis: 72 bulan
+----------------------------------------------
+Case ID: PNBJB-044
+Nomor Perkara: 389/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.65 gram
+Vonis: 82 bulan
+----------------------------------------------
+Case ID: PNBJB-045
+Nomor Perkara: 390/Pid.Sus/2025/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.22 gram
+Vonis: 84 bulan
+----------------------------------------------
+Case ID: PNBJB-046
+Nomor Perkara: 400/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 28.76 gram
+Vonis: 63 bulan
+----------------------------------------------
+Case ID: PNBJB-047
+Nomor Perkara: 401/Pid.Sus/2024/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 0.11 gram
+Vonis: 72 bulan
+----------------------------------------------
+Case ID: PNBJB-048
+Nomor Perkara: 53/Pid.Sus/2022/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 14.43 gram
+Vonis: 84 bulan
+----------------------------------------------
+Case ID: PNBJB-049
+Nomor Perkara: 53/Pid.Sus/2022/PN Bjb
+Jenis Narkotika: Sabu-sabu
+Berat Barang Bukti: 14.43 gram
+Vonis: 84 bulan
+----------------------------------------------

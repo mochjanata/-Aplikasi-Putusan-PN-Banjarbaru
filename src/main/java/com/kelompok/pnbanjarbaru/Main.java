@@ -49,7 +49,7 @@ public class Main {
             return;
         }
 
-        int pilihan = 0;
+        int pilihan = -1;
 
         do {
 

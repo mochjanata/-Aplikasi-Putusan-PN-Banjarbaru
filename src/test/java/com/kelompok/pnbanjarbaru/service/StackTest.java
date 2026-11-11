@@ -1,4 +1,6 @@
-package com.kelompok.pnbanjarbaru.structure;
+package com.kelompok.pnbanjarbaru.service;
+
+import com.kelompok.pnbanjarbaru.structure.Stack;
 
 public class StackTest {
 
